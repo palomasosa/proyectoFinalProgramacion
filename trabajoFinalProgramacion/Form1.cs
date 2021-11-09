@@ -344,11 +344,6 @@ namespace trabajoFinalProgramacion
                         }
                         break;
                     }
-                default:
-                    {
-                        Console.WriteLine("k karajoz");
-                        break;
-                    }
             }
         }
 
